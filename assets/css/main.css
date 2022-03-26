@@ -2201,7 +2201,6 @@
 
 	body.homepage #header {
 		/* Header height / top of website height */
-		height: 20vh;
 		min-height: 20em;
 	}
 
